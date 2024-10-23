@@ -34,7 +34,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 24px;
 }
@@ -135,7 +136,6 @@ ul li a:hover {
 #social-links {
   display: flex;
   justify-content: center;
-  
 
   padding: 24px 0;
 
@@ -151,11 +151,11 @@ ul li a:hover {
   transition: background 0.2s;
   border-radius: 50px;
 }
-#social-links a:hover{
+#social-links a:hover {
   background: var(--highlight-color);
 }
 
 footer {
   padding: 24px 0;
   text-align: center;
-  }
+}
