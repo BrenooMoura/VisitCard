@@ -34,6 +34,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.fig
 
 Esse projeto está sob a licença MIT.
 
-# rocketseat
-# teste
-# teste
